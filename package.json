@@ -1,0 +1,27 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yemredogru/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Yaşar Emre Doğru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yemredogru/PCAT/issues"
+  },
+  "homepage": "https://github.com/yemredogru/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}
